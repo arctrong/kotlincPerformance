@@ -1,4 +1,4 @@
-# Performance issue
+# Kotlin compiler performance
 
 ## On Windows
 
@@ -34,7 +34,6 @@ $ time javac Performance.java
 real    0m0.616s
 user    0m0.000s
 sys     0m0.000s
-
 ````
 
 We see `kotlinc` works definitely mush slower than `javac`.
