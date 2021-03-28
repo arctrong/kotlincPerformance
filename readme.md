@@ -36,7 +36,7 @@ user    0m0.000s
 sys     0m0.000s
 ````
 
-We see `kotlinc` works definitely mush slower than `javac`.
+We see `kotlinc` works definitely much slower than `javac`.
 
 The both programs work relatively equally fast:
 
