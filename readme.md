@@ -1,5 +1,9 @@
 # Kotlin compiler performance
 
+The compiler was dowloaded at [Kotlin command-line compiler download page](https://github.com/JetBrains/kotlin/releases/tag/v1.4.31)
+([direct link](https://github.com/JetBrains/kotlin/releases/download/v1.4.31/kotlin-compiler-1.4.31.zip)) and unziped as it's 
+instructed [here](https://kotlinlang.org/docs/command-line.html).
+
 ## On Windows
 
 Executing on Windows in Cygwin as there's no standard time measurement method in Windows `cmd`.
